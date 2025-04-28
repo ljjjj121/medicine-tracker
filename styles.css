@@ -1,3 +1,4 @@
+<style>
 :root {
     --primary: #6366f1;
     --primary-light: #a5b4fc;
@@ -340,3 +341,4 @@ select:focus {
         max-height: 120px;
     }
 }
+</style>
